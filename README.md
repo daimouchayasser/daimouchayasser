@@ -1,31 +1,3 @@
-## Hi 👋 I’m Yasser Daimouchadd
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,py,java,react,nextjs,tailwindcss,supabase,postgres,docker,aws)](https://skillicons.dev)
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=daimouchayasser&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daimouchayasser&langs_count=5&locale=en&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently building **YesChat**, a full-stack multilingual chat app using Next.js, Supabase, and AI.
-- 🌱 I’m learning advanced **machine learning** and **data visualization** with Python.
-- 👯 I’m looking to collaborate on open-source projects involving **real-time translation** or **gig-marketplace platforms**.
-- 💬 Ask me about **TypeScript**, **Supabase**, **DeepL API**, or **React/Next.js**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yasserdaimoucha) • [Email](mailto:yasser@domain.com)
-
----
-
-### 🛠️ Projects
-- **Match Predictor**: ML-powered sports match outcome predictor (Python, scikit-learn).
-- **Memento Diary**: AI-driven journaling app (Next.js, Vercel, Supabase).
-- **YesChat**: Multilingual social chat app (Next.js, Tailwind, LibreTranslate).
-- **GoHire**: Gig marketplace for local services (Flutter & Supabase prototype).
-<h1 align="center">Hi 👋, I'm Yasser</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daimouchayasser&label=Profile%20views&color=0e75b6&style=flat" alt="daimouchayasser" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daimouchayasser" alt="daimouchayasser" /></a> </p>
@@ -46,3 +18,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daimouchayasser&" alt="daimouchayasser" /></p>
 
+---
+
+### 🚀 About Me
+- 🔭 I’m currently building **YesChat**, a full-stack multilingual chat app using Next.js, Supabase, and AI.
+- 🌱 I’m learning advanced **machine learning** and **data visualization** with Python.
+- 👯 I’m looking to collaborate on open-source projects involving **real-time translation** or **gig-marketplace platforms**.
+- 💬 Ask me about **TypeScript**, **Supabase**, **DeepL API**, or **React/Next.js**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yasserdaimoucha) • [Email](mailto:yasser@domain.com)
+
+---
+
+### 🛠️ Projects
+- **Match Predictor**: ML-powered sports match outcome predictor (Python, scikit-learn).
+- **Memento Diary**: AI-driven journaling app (Next.js, Vercel, Supabase).
+- **YesChat**: Multilingual social chat app (Next.js, Tailwind, LibreTranslate).
+- **GoHire**: Gig marketplace for local services (Flutter & Supabase prototype).
+<h1 align="center">Hi 👋, I'm Yasser</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
