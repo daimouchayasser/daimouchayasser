@@ -37,3 +37,18 @@
 - **Memento Diary**: AI-driven journaling app (Next.js, Vercel, Supabase).
 - **YesChat**: Multilingual social chat app (Next.js, Tailwind, LibreTranslate).
 - **GoHire**: Gig marketplace for local services (Flutter & Supabase prototype).
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=daimouchayasser&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=daimouchayasser&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daimouchayasser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daimouchayasser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=daimouchayasser&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
