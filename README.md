@@ -37,5 +37,3 @@
 - **Memento Diary**: AI-driven journaling app (Next.js, Vercel, Supabase).
 - **YesChat**: Multilingual social chat app (Next.js, Tailwind, LibreTranslate).
 - **GoHire**: Gig marketplace for local services (Flutter & Supabase prototype).
-<h1 align="center">Hi 👋, I'm Yasser</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
