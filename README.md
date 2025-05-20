@@ -10,6 +10,6 @@
   <img
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimouchayasser&layout=compact&theme=dracula"
-    width="45%"
+    width="34.5%"
   />
 </div>
