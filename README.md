@@ -28,3 +28,18 @@ I’m a Mathematics & Computer Science student @ University Of Maryland building
 ---
 
 <h4 align="center">“Let’s collaborate and build something impactful!” 🚀</h4>
+
+---
+
+<div align="center">
+  <img
+    alt="My GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=daimouchayasser&show_icons=true&theme=dracula"
+    width="45%"
+  />
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimouchayasser&layout=compact&theme=dracula"
+    width="34.5%"
+  />
+</div>
