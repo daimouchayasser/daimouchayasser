@@ -23,7 +23,6 @@ I’m a Mathematics & Computer Science student @ University Of Maryland building
 - 🎓 B.S. Math & CS @ University of Maryland (GPA 4.0)  
 - 🔥 3× Amazon SDE Intern (2023 • 2024 • 2025)  
 - 🌱 Specializing in full-stack development with AI/ML  
-- ⚽ Passionate about soccer analytics  
 
 ---
 
